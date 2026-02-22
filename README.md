@@ -1,5 +1,7 @@
 # keep_active_mac
 
+![banner](banner.svg)
+
 Prevents your Mac from sleeping and simulates mouse activity at a configurable interval. Useful for keeping sessions alive (SSH, meetings, CI dashboards, etc.) when you need to step away.
 
 ## How it works
