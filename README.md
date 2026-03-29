@@ -1,4 +1,4 @@
-# keep_active_mac
+# keep_active
 
 ![banner](banner.svg)
 

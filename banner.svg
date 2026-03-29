@@ -139,11 +139,11 @@
   </g>
 
   <!-- Title text -->
-  <text x="400" y="175" font-family="monospace" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle" filter="url(#glow)">keep_active_mac</text>
+  <text x="400" y="175" font-family="monospace" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle" filter="url(#glow)">keep_active</text>
 
   <!-- Subtitle -->
-  <text x="400" y="205" font-family="monospace" font-size="13" fill="#00d4ff" text-anchor="middle" opacity="0.85">Keeps your Mac awake and simulates user activity</text>
+  <text x="400" y="205" font-family="monospace" font-size="13" fill="#00d4ff" text-anchor="middle" opacity="0.85">Keeps your computer awake and simulates user activity</text>
 
   <!-- Bottom tag line -->
-  <text x="400" y="248" font-family="monospace" font-size="11" fill="#666" text-anchor="middle">caffeinate  ·  CoreGraphics mouse simulation  ·  bash + python3</text>
+  <text x="400" y="248" font-family="monospace" font-size="11" fill="#666" text-anchor="middle">caffeinate  ·  SendInput  ·  Python 3</text>
 </svg>
